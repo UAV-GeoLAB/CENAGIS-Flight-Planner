@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://www.example.com/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/advanced/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/advanced/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/flight-parameters/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/flight-parameters/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/interfejs-mapowy/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/interfejs-mapowy/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/mozliwosci-aplikacji/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/mozliwosci-aplikacji/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/spatial-design/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/spatial-design/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/summary/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/summary/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/szybki-start/</loc>
+        <loc>https://uav-geolab.github.io/CENAGIS-Flight-Planner/szybki-start/</loc>
       </url>
 </urlset>

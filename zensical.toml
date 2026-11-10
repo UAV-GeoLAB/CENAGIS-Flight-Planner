@@ -1,13 +1,13 @@
 [project]
-site_url = "https://www.example.com/"
+site_url = "https://uav-geolab.github.io/CENAGIS-Flight-Planner/"
 site_name = "CENAGIS - Flight Planner"
 site_description = "Aplikacja do planowania nalotu fotogrametrycznego"
 site_author = "UAV GeoLAB"
 
 copyright = "Copyright &copy; 2026 UAV GeoLAB"
 
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
+repo_url = "https://github.com/UAV-GeoLAB/CENAGIS-Flight-Planner"
+repo_name = "UAV-GeoLAB/CENAGIS-Flight-Planner"
 # edit_uri = "edit/main/docs/"
 
 nav = [
