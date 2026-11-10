@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://www.example.com/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/advanced/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/flight-parameters/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/interfejs-mapowy/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/mozliwosci-aplikacji/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/spatial-design/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/summary/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/szybki-start/</loc>
+      </url>
+</urlset>
